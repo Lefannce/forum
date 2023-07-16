@@ -1,1 +1,6 @@
-
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://47.113.216.13:3306/forum?characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: forum
+    password: 25wmHar5i4LSBzYA
